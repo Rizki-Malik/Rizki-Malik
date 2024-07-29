@@ -1,7 +1,7 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rizki-Malik&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=850)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=Rizki-Malik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki-Malik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Rizki-Malik&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizki-Malik&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 # 💻 Tech Stack:
